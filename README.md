@@ -5,9 +5,9 @@
 
 <div align="center">
   <a href="https://github.com/enjels">
-    <img alt="status"height="150em"src="https://github-readme-stats.vercel.app/api?username=enjels&show_icons=true&theme=tokyonight&area=true&hide_border=true"/>
-    <img alt="TRINDADE"height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enjels&theme=tokyonight&layout=compact&hide_border=true"/>
-    <img alt="" height="258em" src="https://github-readme-activity-graph.cyclic.app/graph?username=enjels&bg_color=1a1b27&color=8064a5&line=5377b5&point=38bcad&area=true&hide_border=true"/>
+    <img alt="status" height="150em" src="https://github-readme-stats.vercel.app/api?username=enjels&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&show_owner=true"/>
+    <img alt="TRINDADE" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enjels&theme=tokyonight&hide_border=true&&layout=compact"/>
+    <img alt="grafico" height="258em" src="https://github-readme-activity-graph.cyclic.app/graph?username=enjels&bg_color=1a1b27&color=8064a5&line=5377b5&point=38bcad&area=true&hide_border=true"/>
   </a>
 </div>
 
