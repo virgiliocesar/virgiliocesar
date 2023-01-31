@@ -3,7 +3,7 @@
 
 ![Texto SVg](https://readme-typing-svg.herokuapp.com/?color=fffff&size=35&center=true&vCenter=true&width=1000&lines=olá,+Meu+Nome+é+Virgílio+César;Eu+tenho+26+anos;Eu+sou+Brasileiro;)
 
-<div align="center">
+<div>
   <a href="https://github.com/enjels">
     <img alt="status"height="206em"src="https://github-readme-stats.vercel.app/api?username=enjels&show_icons=true&theme=tokyonight&area=true&hide_border=true"/>
     <img alt="TRINDADE"height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enjels&theme=tokyonight&layout=compact&hide_border=true"/>
