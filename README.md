@@ -3,10 +3,10 @@
 
 ![Texto SVg](https://readme-typing-svg.herokuapp.com/?color=fffff&size=35&center=true&vCenter=true&width=1000&lines=olá,+Meu+Nome+é+Virgílio+César;Eu+tenho+26+anos;Eu+sou+Brasileiro;)
 
-<div>
+<div align="center">
   <a href="https://github.com/enjels">
-    <img alt="dados status" height="%" width="49.9%" src="https://github-readme-stats.vercel.app/api?username=enjels&show_icons=true&theme=tokyonight&area=true&hide_border=true"/>
-    <img alt="TRINDADE" height="10%" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enjels&theme=tokyonight&layout=compact&hide_border=true"/>
+    <img alt="status"height="206em"src="https://github-readme-stats.vercel.app/api?username=enjels&show_icons=true&theme=tokyonight&area=true&hide_border=true"/>
+    <img alt="TRINDADE"height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enjels&theme=tokyonight&layout=compact&hide_border=true"/>
   </a>
 </div>
 <img alt="" height="100%" width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=enjels&bg_color=1a1b27&color=8064a5&line=5377b5&point=38bcad&area=true&hide_border=true"/>
