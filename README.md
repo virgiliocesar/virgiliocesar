@@ -1,7 +1,7 @@
 ###
 <img width = 100% src="http://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=102,149,229,2,30height=120&section=header"/>
 
-![Texto SVg](https://readme-typing-svg.herokuapp.com/?color=fffff&size=35&center=true&vCenter=true&width=1000&lines=olá,+Meu+Nome+é+Virgílio+César;Eu+tenho+26+anos;Eu+sou+Brasileiro;)
+![Texto SVg](https://readme-typing-svg.herokuapp.com/?color=fffff&size=35&center=true&vCenter=true&width=1000&lines=olá,+Meu+Nome+é+Virgílio+César;Eu+tenho+27+anos;Eu+sou+Brasileiro;)
 
 <div align="center">
   <a href="https://github.com/enjels">
