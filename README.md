@@ -1,7 +1,7 @@
 ###
 <img width = 100% src="http://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=102,149,229,2,30height=120&section=header"/>
 
-![Texto SVg](https://readme-typing-svg.herokuapp.com/?color=fffff&size=35&center=true&vCenter=true&width=1000&lines=👋+olá,+Eu+sou+o+Virgílio,;um+desenvolvedor+front+end+apaixonado+pelo+que+faz!)
+![Texto SVg](https://readme-typing-svg.herokuapp.com/?color=fffff&size=35&center=true&vCenter=true&width=1000&lines=👋+olá,+Eu+sou+o+Virgílio;um+desenvolvedor+front+end+apaixonado+pelo+que+faz!)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/virgilio-cesar/"><img src="https://img.shields.io/badge/-Virgílio%20César-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
