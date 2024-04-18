@@ -12,10 +12,10 @@
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 - 👨🏻‍💻 &nbsp; Aos 24 anos, tive meu primeiro contato com linhas de código quando decidi criar um aplicativo mobile, um clone do Flappy Bird. Comprei um curso, mas logo percebi que estava desatualizado e isso se tornou uma grande dor de cabeça. Acabei desanimando e parei de estudar, pois o tempo exaustivo no trabalho consumia a maior parte do meu dia.
-- 💚 &nbsp;Após um ano de pausa, retomei a programação aos 25 anos, dedicando algumas horas por dia. Criei minha primeira página e fiquei extremamente empolgado. Foi nesse momento que percebi o quanto amo programar, criar coisas e testar o que desenvolvo. A cada desafio, descubro o prazer de aprender coisas novas. Foi então que decidi tornar-me programador.
-- 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web. Utilizo a stack JavaScript ( React e Node).
-- 🎮 &nbsp; Gosto jogos de gerenciamento, faço meditação regularmente e sou apaixonado por animes, principalmente por filmes de ficção cientifica!
-- 💵 &nbsp; Também gosto muito de investimentos, do mercado financeiro e de economia.
+- 💚 &nbsp; Após um ano de pausa, retomei a programação aos 25 anos, dedicando algumas horas por dia. Criei minha primeira página e fiquei extremamente empolgado. Foi nesse momento que percebi o quanto amo programar, criar coisas e testar o que desenvolvo. A cada desafio, descubro o prazer de aprender coisas novas. Foi então que decidi tornar-me programador.
+- 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web. Utilizo a stack JavaScript (React.js e Node.js) com o framework Express.js, além de dominar ferramentas de versionamento como Git e plataformas como Github. Minhas habilidades incluem o design de interfaces utilizando Figma e Photoshop.
+- 🎮 &nbsp; Gosto de jogos de gerenciamento, faço meditação regularmente e sou apaixonado por animes, principalmente por filmes de ficção científica!
+- 💵 &nbsp; Também sou entusiasta de investimentos, do mercado financeiro e de economia.
 
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
